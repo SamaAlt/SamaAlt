@@ -25,14 +25,6 @@ I’m eager to contribute to innovative projects and collaborate with teams that
 
 ### Databases:
 - **PostgreSQL**, **Sequelize**, **SQLite3**
-
-### Core Competencies:
-- **Web Development**: Responsive design, DOM manipulation, RESTful APIs, HTML5, CSS3
-- **Back-End**: Node.js, Express, Flask, Secure App design, User authentication, API development
-- **Front-End**: React, Redux, Component-based architecture
-- **Computer Science Concepts**: Object-Oriented Programming (OOP), Test-Driven Development (TDD), Data structures, Algorithms
-- **Web Development Tools**: CSS Grid, RESTful APIs, Git, Agile/Scrum, Wireframing
-
 ---
 
 ## Projects 🛠️
