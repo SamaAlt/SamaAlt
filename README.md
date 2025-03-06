@@ -91,7 +91,7 @@ I’m eager to contribute to innovative projects and collaborate with teams that
 
 ## Hobbies & Interests 🌍
 
-I enjoy exploring cultures through food and travel, trying new recipes, visiting markets, and learning about different cuisines. It’s a creative outlet that helps me unwind, stay inspired, and connect with diverse people.
+When I’m not building software, you’ll probably find me hiking trails or kayaking on the water. I love getting outside, exploring new places, and having a little adventure—it’s my way of having fun and staying energized!
 
 ---
 
