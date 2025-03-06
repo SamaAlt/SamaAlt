@@ -9,7 +9,9 @@
 
 ## About Me 🚀
 
-I’m a **Software Engineer** and graduate of **App Academy**, one of the top-ranked coding bootcamps in the U.S., with a strong foundation in **full-stack development**. Passionate about transforming ideas into efficient, scalable, and user-centered web applications, I thrive in collaborative environments and am eager to contribute to innovative projects. I’m excited to bring my skills and creativity to a team that values innovation and collaboration.
+I’m a software engineer passionate about transforming ideas into efficient, scalable, and user-centered applications. Coding is my focus and creative outlet, and I thrive on solving complex problems to deliver impactful solutions. At App Academy Bootcamp, through hands-on projects like a team-built Uber Eats clone and a custom website for a journalist’s startup, I’ve demonstrated my ability to combine technical expertise with creative problem-solving. 
+
+I’m eager to contribute to innovative projects and collaborate with teams that value creativity, collaboration, and purpose. Looking ahead, I’m excited to explore AI development and continue growing as a developer who builds technology that simplifies and enriches people’s lives.
 
 ---
 
