@@ -82,7 +82,7 @@ I’m eager to contribute to innovative projects and collaborate with teams that
 **Arizona State University** | 2027  
 
 ### **Static Web Development Bootcamp**
-**Generation USA** | 2025  
+**Generation USA** | 2021  
 
 ### **Bachelor of Arts in English Literature**
 **Al-Albayt University** | 2016  
