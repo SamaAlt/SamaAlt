@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-samaalt.onrender.com-blue)](https://samaalt.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sama%20Althiabat-blue)](https://www.linkedin.com/in/samaalt/)
 [![GitHub](https://img.shields.io/badge/GitHub-SamaAlt-green)](https://github.com/SamaAlt)
-[![Email](https://img.shields.io/badge/Email-sama.althiabat%40gmail.com-red)](mailto:sama.althiabat@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sama.althiabat%40gmail.com-red)](mailto:althiabat.sama@gmail.com)
 
 ---
 
@@ -108,7 +108,7 @@ I enjoy exploring cultures through food and travel, trying new recipes, visiting
 Feel free to reach out to me for collaborations, job opportunities, or just a friendly chat!
 
 - **Phone**: +1 (571) 307-4509  
-- **Email**: sama.althiabat@gmail.com  
+- **Email**: althiabat.sama@gmail.com  
 - **LinkedIn**: [Sama Althiabat](https://www.linkedin.com/in/samaalt/)  
 - **GitHub**: [SamaAlt](https://github.com/SamaAlt)  
 - **Portfolio**: [samaalt.onrender.com](https://samaalt.onrender.com)  
