@@ -9,7 +9,7 @@
 
 ## About Me 🚀
 
-I’m a software engineer passionate about transforming ideas into efficient, scalable, and user-centered applications. Coding is my focus and creative outlet, and I thrive on solving complex problems to deliver impactful solutions. At App Academy Bootcamp, through hands-on projects like a team-built Uber Eats clone and a custom website for a journalist’s startup, I’ve demonstrated my ability to combine technical expertise with creative problem-solving. 
+I’m a software engineer passionate about transforming ideas into efficient, scalable, and user-centered applications. Coding is my focus and creative outlet, and I thrive on solving complex problems to deliver impactful solutions. Through hands-on projects like a team-built Uber Eats clone and a custom website for a journalist’s startup, I’ve demonstrated my ability to combine technical expertise with creative problem-solving. 
 
 I’m eager to contribute to innovative projects and collaborate with teams that value creativity, collaboration, and purpose. Looking ahead, I’m excited to explore AI development and continue growing as a developer who builds technology that simplifies and enriches people’s lives.
 
@@ -24,30 +24,30 @@ I’m eager to contribute to innovative projects and collaborate with teams that
 - **React**, **Redux**, **Express**, **Flask**, **Node.js**
 
 ### Databases:
-- **SQL**, **Sequelize**, **SQLite3**
+- **PostgreSQL**, **Sequelize**, **SQLite3**
 
 ### Core Competencies:
-- **Web Development**: Responsive design, DOM manipulation, RESTful APIs, HTML, CSS
-- **Back-End**: Node.js, Express, Secure App design, User authentication, API development
+- **Web Development**: Responsive design, DOM manipulation, RESTful APIs, HTML5, CSS3
+- **Back-End**: Node.js, Express, Flask, Secure App design, User authentication, API development
 - **Front-End**: React, Redux, Component-based architecture
-- **Computer Science Concepts**: Object-Oriented Programming (OOP), Test-Driven Development (TDD), Data structures, Algorithms, Big O notation
-- **Web Development Tools**: CSS, Grid, SCSS (Sass), AWS, Git, Agile/Scrum, Wireframing
+- **Computer Science Concepts**: Object-Oriented Programming (OOP), Test-Driven Development (TDD), Data structures, Algorithms
+- **Web Development Tools**: CSS Grid, RESTful APIs, Git, Agile/Scrum, Wireframing
 
 ---
 
 ## Projects 🛠️
 
 ### [Zark News](https://zarknews.onrender.com/)
-- **Description**: Developed ZarkNews, a full-stack news platform using Python Flask and React, featuring user authentication, content embedding, and responsive UI. Highlights expertise in RESTful APIs, database management, and modern UI/UX design.
-- **Tech Stack**: Python, Flask, React, SQL
+- **Description**: A dynamic news platform for journalists, enabling article management and user subscriptions. Developed a RESTful API for user authentication, subscription, and article management using Flask Blueprints and RESTful routing. Built a responsive frontend with React, Redux, and context for state management, ensuring seamless user interactions. Designed a modern UI using HTML5, CSS3, and CSS Grid, with secure user authentication via Flask-Login and Werkzeug.
+- **Tech Stack**: Python, Flask, React, Redux, PostgreSQL
 
 ### [NomNow](https://nomnow-75lb.onrender.com/)
-- **Description**: Developed NomNow's Reviews CRUD feature in a group project using Python Flask and React, enabling users to manage restaurant reviews. Improved interactivity and UX, demonstrating full-stack development, teamwork, and scalable solutions.
-- **Tech Stack**: Python, Flask, React, SQL
+- **Description**: A restaurant review platform inspired by Uber Eats, enabling users to browse and review restaurants. Created a RESTful API for review management using Flask Blueprints, enabling CRUD operations for reviews. Implemented secure data storage with PostgreSQL and SQLAlchemy, ensuring robust data integrity. Designed a responsive frontend with React and Redux, enabling scalable state management and user-friendly interactions.
+- **Tech Stack**: Python, Flask, React, Redux, PostgreSQL
 
 ### [Student Stays](https://student-stays.onrender.com)
-- **Description**: Built StudentStays with an Express API, offering affordable student accommodations. Added user auth, spot management, reviews, bookings, and image uploads with role-based access. Delivered a seamless UX for listings and bookings, showcasing backend expertise and scalable solutions.
-- **Tech Stack**: JavaScript, Express, React, SQL
+- **Description**: A platform for students to find and review housing options near campuses. Developed a RESTful API for spot and review management using Express Router and middleware. Built a responsive frontend with React and Redux, enabling seamless spot and review management. Utilized BCrypt for secure password storage and Express-Validator for input validation, ensuring data integrity.
+- **Tech Stack**: JavaScript, Express, React, Redux, PostgreSQL
 
 ---
 
@@ -55,47 +55,45 @@ I’m eager to contribute to innovative projects and collaborate with teams that
 
 ### **Configuration Analyst**
 **Dev Source LLC** | April 2021 - July 2024  
-- Implemented benefit plan specifications in QNXT, ensuring regulatory compliance.
-- Partnered with cross-functional teams to convert business needs into technical solutions.
-- Conducted comprehensive testing and validation to ensure optimal functionality and user satisfaction.
+- Designed and implemented benefit plan specifications in QNXT, ensuring compliance with regulatory standards and improving system functionality.
+- Partnered with cross-functional teams to translate business requirements into technical solutions, streamlining processes and enhancing project delivery efficiency.
+- Conducted comprehensive testing and validation of system configurations, ensuring high accuracy and reliability while improving user satisfaction.
 
 ### **Mentor and Technical Specialist**
 **Apple Inc.** | February 2017 - May 2019  
-- Mentored new hires on troubleshooting, enhancing team productivity and performance.
-- Diagnosed and resolved a wide range of technical issues, delivering exceptional customer service.
-- Developed strong customer relationships, contributing to increased loyalty and repeat business.
+- Diagnosed and resolved a wide range of technical issues, delivering timely and effective solutions that improved customer satisfaction.
+- Trained and onboarded new hires on troubleshooting techniques, enhancing team productivity.
+- Recognized as a top-performing employee for delivering outstanding customer service, earning the highest achievement distinction for one month.
 
 ### **Educational Data Analyst**
 **MYS Education Services** | March 2013 - June 2016  
-- Collected, cleaned, and analyzed educational data for student placements at universities.
-- Created comprehensive data visualizations and reports to communicate insights and recommendations.
-- Streamlined data analysis processes, leading to more efficient and effective client recommendations.
+- Collected, cleaned, and analyzed educational data to inform student placements, creating detailed reports and visualizations that improved decision-making processes.
+- Streamlined data analysis workflows, enhancing efficiency and accuracy in client recommendations.
+- Identified patterns and trends in data to provide actionable recommendations, improving the success rate of student placements.
 
 ---
 
 ## Education 🎓
 
-### **Software Engineering**
-**App Academy Bootcamp** | March 2025  
+### **Software Engineering Bootcamp**
+**App Academy** | 2025  
 
 ### **Bachelor’s Degree in Data Science**
-**Arizona State University** | May 2027  
+**Arizona State University** | 2027  
 
-### **Web Development**
-**Web Development Bootcamp** | Feb 2021  
+### **Static Web Development Bootcamp**
+**Generation USA** | 2025  
 
 ### **Bachelor of Arts in English Literature**
-**Al-Albayt University, Al-Mafraq, Jordan** | July 2016  
+**Al-Albayt University** | 2016  
 
 ---
 
 ## Certifications 📜
 
-- **Software Engineer** | App Academy | Mar 2025  
 - **MySQL** | Udemy | Jun 2021  
 - **Foundations of UX Design** | Google | Apr 2021  
 - **JavaScript Developer** | W3Schools | Feb 2021  
-- **Junior Web Developer** | Generation USA | Feb 2021  
 
 ---
 
