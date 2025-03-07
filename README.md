@@ -29,5 +29,3 @@
 ![SQLite3](https://img.shields.io/badge/SQLite3-%23003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
-
-⭐️ **From [Sama Althiabat](https://github.com/SamaAlt)**  
