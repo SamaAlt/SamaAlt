@@ -1,110 +1,48 @@
-# Hi, I'm Sama Althiabat 👋
+# Welcome to My GitHub! 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-samaalt.onrender.com-blue)](https://samaalt.onrender.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sama%20Althiabat-blue)](https://www.linkedin.com/in/samaalt/)
-[![GitHub](https://img.shields.io/badge/GitHub-SamaAlt-green)](https://github.com/SamaAlt)
-[![Email](https://img.shields.io/badge/Email-sama.althiabat%40gmail.com-red)](mailto:althiabat.sama@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-samaalt.onrender.com-%2300A4FF?style=for-the-badge&logo=react&logoColor=white)](https://samaalt.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sama%20Althiabat-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samaalt/)
+[![GitHub](https://img.shields.io/badge/GitHub-SamaAlt-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamaAlt)
 
 ---
 
 ## About Me 🚀
 
-I’m a software engineer passionate about transforming ideas into efficient, scalable, and user-centered applications. Coding is my focus and creative outlet, and I thrive on solving complex problems to deliver impactful solutions. Through hands-on projects like a team-built Uber Eats clone and a custom website for a journalist’s startup, I’ve demonstrated my ability to combine technical expertise with creative problem-solving. 
+Hey there! I'm **Sama Althiabat**, a passionate developer with a love for building cool things and solving problems. Here's a little about me:
 
-I’m eager to contribute to innovative projects and collaborate with teams that value creativity, collaboration, and purpose. Looking ahead, I’m excited to explore AI development and continue growing as a developer who builds technology that simplifies and enriches people’s lives.
+- 🌌 **Currently Building**: [Zark News](https://github.com/SamaAlt/Zark-News). Stay tuned for updates!
+- 🤖 **Deepening My Knowledge**: I’m diving deep into **AI development**.
+- 🤝 **Collaboration**: I’m always open to collaborating on exciting projects. If you have an idea, let’s make it happen!
+- ⚡ **Fun Fact**: When I’m not coding, you’ll find me hiking up mountains or kayaking through serene lakes. Nature fuels my creativity!
 
 ---
 
 ## Technical Skills 💻
 
 ### Programming Languages:
-- **JavaScript**, **Python**, **SQL**
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300f?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Frameworks/Libraries:
-- **React**, **Redux**, **Express**, **Flask**, **Node.js**
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC?style=flat-square&logo=redux&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### Databases:
-- **PostgreSQL**, **Sequelize**, **SQLite3**
----
-
-## Projects 🛠️
-
-### [Zark News](https://zarknews.onrender.com/)
-- **Description**: A dynamic news platform for journalists, enabling article management and user subscriptions. Developed a RESTful API for user authentication, subscription, and article management using Flask Blueprints and RESTful routing. Built a responsive frontend with React, Redux, and context for state management, ensuring seamless user interactions. Designed a modern UI using HTML5, CSS3, and CSS Grid, with secure user authentication via Flask-Login and Werkzeug.
-- **Tech Stack**: Python, Flask, React, Redux, PostgreSQL
-
-### [NomNow](https://nomnow-75lb.onrender.com/)
-- **Description**: A restaurant review platform inspired by Uber Eats, enabling users to browse and review restaurants. Created a RESTful API for review management using Flask Blueprints, enabling CRUD operations for reviews. Implemented secure data storage with PostgreSQL and SQLAlchemy, ensuring robust data integrity. Designed a responsive frontend with React and Redux, enabling scalable state management and user-friendly interactions.
-- **Tech Stack**: Python, Flask, React, Redux, PostgreSQL
-
-### [Student Stays](https://student-stays.onrender.com)
-- **Description**: A platform for students to find and review housing options near campuses. Developed a RESTful API for spot and review management using Express Router and middleware. Built a responsive frontend with React and Redux, enabling seamless spot and review management. Utilized BCrypt for secure password storage and Express-Validator for input validation, ensuring data integrity.
-- **Tech Stack**: JavaScript, Express, React, Redux, PostgreSQL
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-%2302AFEE?style=flat-square&logo=sequelize&logoColor=white)
+![SQLite3](https://img.shields.io/badge/SQLite3-%23003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
-## Professional Experience 💼
+## Let’s Connect! 🌐
 
-### **Configuration Analyst**
-**Dev Source LLC** | April 2021 - July 2024  
-- Designed and implemented benefit plan specifications in QNXT, ensuring compliance with regulatory standards and improving system functionality.
-- Partnered with cross-functional teams to translate business requirements into technical solutions, streamlining processes and enhancing project delivery efficiency.
-- Conducted comprehensive testing and validation of system configurations, ensuring high accuracy and reliability while improving user satisfaction.
-
-### **Mentor and Technical Specialist**
-**Apple Inc.** | February 2017 - May 2019  
-- Diagnosed and resolved a wide range of technical issues, delivering timely and effective solutions that improved customer satisfaction.
-- Trained and onboarded new hires on troubleshooting techniques, enhancing team productivity.
-- Recognized as a top-performing employee for delivering outstanding customer service, earning the highest achievement distinction for one month.
-
-### **Educational Data Analyst**
-**MYS Education Services** | March 2013 - June 2016  
-- Collected, cleaned, and analyzed educational data to inform student placements, creating detailed reports and visualizations that improved decision-making processes.
-- Streamlined data analysis workflows, enhancing efficiency and accuracy in client recommendations.
-- Identified patterns and trends in data to provide actionable recommendations, improving the success rate of student placements.
-
----
-
-## Education 🎓
-
-### **Software Engineering Bootcamp**
-**App Academy** | 2025  
-
-### **Bachelor’s Degree in Data Science**
-**Arizona State University** | 2027  
-
-### **Static Web Development Bootcamp**
-**Generation USA** | 2021  
-
-### **Bachelor of Arts in English Literature**
-**Al-Albayt University** | 2016  
-
----
-
-## Certifications 📜
-
-- **MySQL** | Udemy | Jun 2021  
-- **Foundations of UX Design** | Google | Apr 2021  
-- **JavaScript Developer** | W3Schools | Feb 2021  
-
----
-
-## Hobbies & Interests 🌍
-
-When I’m not building software, you’ll probably find me hiking trails or kayaking on the water. I love getting outside, exploring new places, and having a little adventure—it’s my way of having fun and staying energized!
-
----
-
-## Let's Connect! 🤝
-
-Feel free to reach out to me for collaborations, job opportunities, or just a friendly chat!
-
-- **Phone**: +1 (571) 307-4509  
-- **Email**: althiabat.sama@gmail.com  
 - **LinkedIn**: [Sama Althiabat](https://www.linkedin.com/in/samaalt/)  
-- **GitHub**: [SamaAlt](https://github.com/SamaAlt)  
 - **Portfolio**: [samaalt.onrender.com](https://samaalt.onrender.com)  
 
 ---
 
-⭐️ From [Sama Althiabat](https://github.com/SamaAlt)
+⭐️ **From [Sama Althiabat](https://github.com/SamaAlt)**  
