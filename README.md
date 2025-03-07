@@ -7,8 +7,6 @@
 
 ## About Me 🚀
 
-Hey there! I'm **Sama Althiabat**, a passionate developer with a love for building cool things and solving problems. Here's a little about me:
-
 - 🌌 **Currently Building**: [Zark News](https://github.com/SamaAlt/Zark-News). Stay tuned for updates!
 - 🤖 **Deepening My Knowledge**: I’m diving deep into **AI development**.
 - 🤝 **Collaboration**: I’m always open to collaborating on exciting projects. If you have an idea, let’s make it happen!
